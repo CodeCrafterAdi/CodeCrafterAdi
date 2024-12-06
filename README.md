@@ -1,3 +1,5 @@
+![logo](https://github.com/CodeCrafterAdi/CodeCrafterAdi/blob/main/Purple%20and%20Black%20Futuristic%20AI%20Technology%20Banner_Nero%20AI_Compress_High.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Code, Collaborate, Create.</h3>
 

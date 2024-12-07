@@ -8,23 +8,22 @@
   />
 </p>
 
-
-<!-- Cyberpunk Professional GitHub Profile --><h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff6ec7; text-shadow: 0px 0px 15px #ff6ec7;">
+<!-- Cyberpunk Professional GitHub Profile -->
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff6ec7; text-shadow: 0px 0px 15px #ff6ec7;">
   HI!👋 I AM ADITYA SHARMA 
-</h1
+</h1>
 <p align="center" style="font-family: 'Source Code Pro', monospace; color: #7df9ff; font-size: 2.4rem; text-shadow: 0px 0px 10px #7df9ff;">
-<p>#CODE, COLLABORATE, CREATE 🚀</p>
+  #CODE, COLLABORATE, CREATE 🚀
+</p>
 
+<!-- GIF & Text Section -->
 <div style="display: flex; align-items: center; justify-content: center;">
-  <!-- GIF Section -->
   <img 
     src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" 
     alt="Coding" 
     width="40%" 
     style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 110, 199, 0.7); margin-right: 20px;" 
   />
-  
-  <!-- Text Section -->
   <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #ffffff; text-align: justify; line-height: 1.5; background: #141414; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 110, 199, 0.3);">
     Welcome to a realm where creativity meets innovation! Together, we can turn imagination into impactful solutions. 🚀  
     As a passionate developer, designer, and dreamer, I thrive on collaboration. Whether it’s building futuristic applications, designing mesmerizing visuals, or crafting compelling stories through code—your ideas matter here.  
@@ -36,29 +35,33 @@
 
 ---
 
+<!-- Stats and Profile Visitors -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codecrafteradi&label=Profile%20Visitors&color=7df9ff&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecrafteradi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codecrafteradi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafteradi&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
+<!-- About Me Section -->
 <h3 align="center" style="color: #ff6ec7;">🌌 About Me:</h3>
-
 <div align="left">
   <img src="https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif" alt="Hacker Icon" width="400" height="200" />
 </div>
-
-- 🌱 I’m currently learning **BCA (AI & IoT)**  
-- 👯 Looking to collaborate on **team projects with passionate developers and graphic designers**  
-- 🤝 Seeking help for **freelance work in web development, video editing, and animation**  
-- 💬 Ask me about **joining my team!**  
-- 📫 Reach me at: **adityasharmabusiness1@gmail.com**  
-- ⚡ Fun fact: **If you can imagine it, you can achieve it.**
+<p style="font-size: 1.2rem; color: #ffffff; padding: 10px; text-align: justify;">
+  🌱 I’m currently learning **BCA (AI & IoT)**. <br>
+  👯 I love collaborating on **team projects with passionate developers and graphic designers**. <br>
+  🤝 Seeking opportunities for **freelance work in web development, video editing, and animation**. <br>
+  💬 Ask me about **joining my team**! <br>
+  📫 Reach me at: **adityasharmabusiness1@gmail.com** <br>
+  ⚡ Fun fact: **If you can imagine it, you can achieve it.**
+</p>
 
 ---
 
+<!-- Connect with Me -->
 <h3 align="center" style="color: #7df9ff;">🔗 Connect with Me:</h3>
-
 <div align="center">
   <a href="https://linkedin.com/in/aditya-sharma-80a572340" target="_blank">
     <img src="https://media.giphy.com/media/zGD1yC2V9ShBt2gjMB/giphy.gif" alt="LinkedIn" width="50" />
@@ -70,8 +73,8 @@
 
 ---
 
+<!-- Tools & Languages -->
 <h3 align="center" style="color: #ff6ec7;">🛠 Tools & Languages:</h3>
-
 <div align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="Python" width="50" />
@@ -86,17 +89,8 @@
 
 ---
 
-<h3 align="center" style="color: #7df9ff;">📊 Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecrafteradi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codecrafteradi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafteradi&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<h3 align="center" style="color: #ff6ec7;">🚀 Featured Repositories:</h3>
+<!-- Featured Repositories -->
+<h3 align="center" style="color: #7df9ff;">🚀 Featured Repositories:</h3>
 <div align="center">
   <a href="https://github.com/codecrafteradi/sample-repo" target="_blank">
     <img 
@@ -105,17 +99,15 @@
       style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 110, 199, 0.7);"
     />
   </a>
- 
   <p style="font-size: 18px; color: #e2e2e2; margin-top: 10px; max-width: 600px; text-align: center;">
     Currently working on exciting projects to push the boundaries of creativity and innovation! Stay tuned for more!
   </p>
 </div>
 
-
 ---
 
+<!-- Thank You Section -->
 <h3 align="center" style="color: #7df9ff; font-size: 48px;">✨ Thank You! ✨</h3>
-
 
 <div align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="Thank You Icon" width="400" />
